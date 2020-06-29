@@ -1,0 +1,16 @@
+Webpack - Збірний ский збирає все в один файл.
+    Babel
+    Scss (препроцесор)
+    Eslint - (Слідить за чистотою коду)
+        2 Mod
+            - DEV
+                   Dev Server (автоматично перезагружає вікно браузера, якщо є зміни)
+                   SourceMap 
+                   Eslint,
+                   Not Minified Js & CSS
+            - PROD
+                   Minified Code
+Git
+    Prodaction - те що бачить користувач
+    Development - деф версія
+
